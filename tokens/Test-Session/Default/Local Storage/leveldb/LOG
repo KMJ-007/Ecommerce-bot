@@ -1,0 +1,5 @@
+2022/09/20-19:05:39.902 f76c Reusing MANIFEST /home/karanjanthe/Workspace/projects/e-commerce/tokens/Test-Session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/20-19:05:39.902 f76c Recovering log #3
+2022/09/20-19:05:39.902 f76c Level-0 table #3: started
+2022/09/20-19:05:39.906 f76c Level-0 table #3: 19068 bytes OK
+2022/09/20-19:05:39.909 f76c Delete type=0 #3
